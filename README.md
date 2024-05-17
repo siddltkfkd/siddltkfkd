@@ -25,17 +25,17 @@ Hi there 👋
 <!-- 많이 사용한 언어 -->
 <!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=siddltkfkd&layout=compact)](https://github.com/anuraghazra/github-readme-stats)-->
 <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=siddltkfkd&layout=donut&show_icons=true&theme=material-palenight&hide_border=true&bg_color=00000000&icon_color=58A6FF&text_color=000&title_color=58A6FF&count_private=true&exclude_repo=Face-Transfer-Application" width=38% />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=siddltkfkd&layout=donut&show_icons=true&theme=material-palenight&hide_border=true&bg_color=00000000&icon_color=58A6FF&text_color=9ACD32&title_color=58A6FF&count_private=true&exclude_repo=Face-Transfer-Application" width=38% />
 </a> 
 
 <!-- 깃허브 상태 -->
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img src="https://github-readme-stats.vercel.app/api?username=siddltkfkd&show_icons=true&theme=material-palenight&hide_border=true&bg_color=00000000&icon_color=58A6FF&text_color=000&title_color=58A6FF&count_private=true" width=56% />
+  <img src="https://github-readme-stats.vercel.app/api?username=siddltkfkd&show_icons=true&theme=material-palenight&hide_border=true&bg_color=00000000&icon_color=58A6FF&text_color=9ACD32&title_color=58A6FF&count_private=true" width=56% />
 </a>
 
 <!-- contribute table -->
 <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=siddltkfkd&theme=react-dark&bg_color=00000000&hide_border=true&line=6495ED&color=000&title_color=6495ED" width=94%/>
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=siddltkfkd&theme=react-dark&bg_color=00000000&hide_border=true&line=6495ED&color=9ACD32&title_color=6495ED" width=94%/>
 </a>
 
 <!-- 잔디먹는 뱀 -->
